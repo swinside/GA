@@ -1,0 +1,170 @@
+****************** GA TEST *******************
+
+total test#:			 5
+hexa min width:			 2
+hexa max width:			 3
+hexa count:			 7
+number count:			 24
+population size:		 100
+generation size:		 30
+
+tournament winner p:		 0.6
+xover uniform p:		 0.6
+do mutation1 p:			 0.1
+mutation1 p:			 0.05
+do optimize p:			 1
+local optimize count:		 300
+do deep better optimize p:	 1
+do deep worse optimize p:	 0
+do spin p:			 0
+spin count:			 1000
+do spin apply p:		 1
+do mutation2 p:			 0.1
+mutation2 p:			 0.1
+force mutation2:		 0
+replace bad p:			 0.1
+
+converge rate p:		 0.99
+converge count:			 2
+
+**********************************************
+
+
+===================[TEST 1]===================
+
+##### START ##### Tue May 13 11:10:58 2003
+
+
+
+##### CONVERGE ##### Tue May 13 11:10:59 2003
+
+Elapsed time: 1 seconds
+Total loop: 188 generations
+
+Result (Solution) : 85
+
+5 2 22 21 18 17 9 14 23 4 3 8 24 7 12 13 19 1 15 16 6 20 11 10 
+
+ 5 2 22 21 18 17	 => 85
+ 9 17 18 14 23 4	 => 85
+ 22 3 8 24 7 21	 => 85
+ 18 21 7 12 13 14	 => 85
+ 23 14 13 19 1 15	 => 85
+ 7 24 16 6 20 12	 => 85
+ 13 12 20 11 10 19	 => 85
+
+
+===================[TEST 2]===================
+
+##### START ##### Tue May 13 11:10:59 2003
+
+
+
+##### CONVERGE ##### Tue May 13 11:11:02 2003
+
+Elapsed time: 3 seconds
+Total loop: 295 generations
+
+Result (Solution) : 85
+
+10 11 17 14 9 24 6 16 22 8 12 1 23 18 7 21 20 4 2 3 15 19 13 5 
+
+ 10 11 17 14 9 24	 => 85
+ 6 24 9 16 22 8	 => 85
+ 17 12 1 23 18 14	 => 85
+ 9 14 18 7 21 16	 => 85
+ 22 16 21 20 4 2	 => 85
+ 18 23 3 15 19 7	 => 85
+ 21 7 19 13 5 20	 => 85
+
+
+===================[TEST 3]===================
+
+##### START ##### Tue May 13 11:11:02 2003
+
+
+
+##### CONVERGE ##### Tue May 13 11:11:04 2003
+
+Elapsed time: 2 seconds
+Total loop: 227 generations
+
+Result (Solution) : 85
+
+3 17 24 8 11 22 4 18 21 9 5 12 16 20 13 15 23 2 6 10 7 19 14 1 
+
+ 3 17 24 8 11 22	 => 85
+ 4 22 11 18 21 9	 => 85
+ 24 5 12 16 20 8	 => 85
+ 11 8 20 13 15 18	 => 85
+ 21 18 15 23 2 6	 => 85
+ 20 16 10 7 19 13	 => 85
+ 15 13 19 14 1 23	 => 85
+
+
+===================[TEST 4]===================
+
+##### START ##### Tue May 13 11:11:04 2003
+
+
+
+##### CONVERGE ##### Tue May 13 11:11:06 2003
+
+Elapsed time: 2 seconds
+Total loop: 313 generations
+
+Result (Solution) : 85
+
+14 4 23 9 13 22 3 16 24 7 6 10 20 17 12 18 21 5 1 2 19 15 8 11 
+
+ 14 4 23 9 13 22	 => 85
+ 3 22 13 16 24 7	 => 85
+ 23 6 10 20 17 9	 => 85
+ 13 9 17 12 18 16	 => 85
+ 24 16 18 21 5 1	 => 85
+ 17 20 2 19 15 12	 => 85
+ 18 12 15 8 11 21	 => 85
+
+
+===================[TEST 5]===================
+
+##### START ##### Tue May 13 11:11:06 2003
+
+
+
+##### CONVERGE ##### Tue May 13 11:11:09 2003
+
+Elapsed time: 3 seconds
+Total loop: 357 generations
+
+Result (Solution) : 85
+
+3 4 16 20 18 24 6 13 23 1 11 8 21 9 10 15 22 7 5 12 14 19 17 2 
+
+ 3 4 16 20 18 24	 => 85
+ 6 24 18 13 23 1	 => 85
+ 16 11 8 21 9 20	 => 85
+ 18 20 9 10 15 13	 => 85
+ 23 13 15 22 7 5	 => 85
+ 9 21 12 14 19 10	 => 85
+ 15 10 19 17 2 22	 => 85
+
+
+
+test#	fitness		sum		time
+---------------------------------------------------
+1	85	85		1
+2	85	85		3
+3	85	85		2
+4	85	85		2
+5	85	85		3
+
+
+---------------------------------------------------
+Best fitness      : 85( test# 1)
+Best solution sum : 85( test# 1)
+Shortest time     : 1( test# 1)
+
+Average fitness   : 85
+Average sol. sum  : 85
+Average time      : 2.2

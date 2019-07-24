@@ -1,0 +1,90 @@
+****************** GA TEST *******************
+
+total test#:			 2
+hexa min width:			 1
+hexa max width:			 2
+hexa count:			 4
+number count:			 16
+population size:		 130
+generation size:		 40
+
+tournament winner p:		 1
+do xover p:			 1
+xover:	uniform		0.697
+do mutation1 p:			 0.1
+mutation1 p:			 0.05
+do optimize p:			 1
+local optimize count:		 6000
+do deep better optimize p:	 1
+do deep worse optimize p:	 0
+do spin p:			 0
+spin count:			 1000
+do spin apply p:		 1
+do mutation2 p:			 0.1
+mutation2 p:			 0.05
+force mutation2:		 0
+replace bad p:			 0.195
+
+converge rate p:		 0.99
+converge count:			 1
+
+**********************************************
+
+
+===================[TEST 1]===================
+
+##### START ##### Tue May 20 09:53:43 2003
+
+
+
+##### CONVERGE ##### Tue May 20 09:53:50 2003
+
+Elapsed time: 7 seconds
+Total loop: 61 generations
+
+Result (Solution) : 62
+
+9 10 11 15 14 3 2 5 13 16 12 4 1 6 8 7 
+
+ 9 10 11 15 14 3	 => 62
+ 11 2 5 13 16 15	 => 62
+ 14 15 16 12 4 1	 => 62
+ 16 13 6 8 7 12	 => 62
+
+
+===================[TEST 2]===================
+
+##### START ##### Tue May 20 09:53:50 2003
+
+
+
+##### CONVERGE ##### Tue May 20 09:53:55 2003
+
+Elapsed time: 5 seconds
+Total loop: 39 generations
+
+Result (Solution) : 62
+
+10 3 13 16 14 6 2 5 11 15 12 1 4 8 9 7 
+
+ 10 3 13 16 14 6	 => 62
+ 13 2 5 11 15 16	 => 62
+ 14 16 15 12 1 4	 => 62
+ 15 11 8 9 7 12	 => 62
+
+
+
+test#	fitness		sum		time
+---------------------------------------------------
+1	62		62		7
+2	62		62		5
+
+
+---------------------------------------------------
+Best fitness      : 62 ( test# 1)
+Best solution sum : 62 ( test# 1)
+Shortest time     : 5 ( test# 2)
+
+Average fitness   : 62
+Average sol. sum  : 62
+Average time      : 6

@@ -1,0 +1,81 @@
+****************** GA TEST *******************
+
+total test#:			 1
+hexa min width:			 3
+hexa max width:			 5
+hexa count:			 19
+number count:			 54
+population size:		 110
+generation size:		 50
+
+tournament winner p:		 1
+do xover p:			 1
+xover:				 2points
+do mutation1 p:			 0.1
+mutation1 p:			 0.05
+do optimize p:			 1
+local optimize count:		 6000
+do deep better optimize p:	 1
+do deep worse optimize p:	 0
+do spin p:			 0
+spin count:			 1000
+do spin apply p:		 1
+do mutation2 p:			 0.12
+mutation2 p:			 0.08
+force mutation2:		 0
+replace bad p:			 0.195
+
+converge rate p:		 0.99
+converge count:			 1
+
+**********************************************
+
+
+===================[TEST 1]===================
+
+##### START ##### Wed May 21 12:30:20 2003
+
+
+
+##### CONVERGE ##### Wed May 21 12:31:02 2003
+
+Elapsed time: 42 seconds
+Total loop: 69 generations
+
+Result : 187.478
+
+20 16 29 40 46 39 5 26 25 50 11 52 38 14 12 45 36 28 23 27 43 17 33 47 3 13 10 35 51 22 30 31 37 8 53 49 7 1 9 32 41 48 18 54 42 34 4 6 19 44 2 24 15 21 
+
+ 20 16 29 40 46 39	 => 190
+ 5 39 46 26 25 50	 => 191
+ 11 50 25 52 38 14	 => 190
+ 29 12 45 36 28 40	 => 190
+ 46 40 28 23 27 26	 => 190
+ 25 26 27 43 17 52	 => 190
+ 38 52 17 33 47 3	 => 190
+ 45 13 10 35 51 36	 => 190
+ 28 36 51 22 30 23	 => 190
+ 27 23 30 31 37 43	 => 191
+ 17 43 37 8 53 33	 => 191
+ 47 33 53 49 7 1	 => 190
+ 51 35 9 32 41 22	 => 190
+ 30 22 41 48 18 31	 => 190
+ 37 31 18 54 42 8	 => 190
+ 53 8 42 34 4 49	 => 190
+ 41 32 6 19 44 48	 => 190
+ 18 48 44 2 24 54	 => 190
+ 42 54 24 15 21 34	 => 190
+
+
+
+test#	fitness		sum		time
+---------------------------------------------------
+1	187.478				42
+
+
+---------------------------------------------------
+Best fitness      : 187.478 ( test# 1)
+Shortest time     : 42 ( test# 1)
+
+Average fitness   : 187.478
+Average time      : 42

@@ -1,0 +1,73 @@
+****************** GA TEST *******************
+
+total test#:			 100
+hexa min width:			 3
+hexa max width:			 5
+hexa count:			 19
+number count:			 54
+population size:		 100
+generation size:		 30
+
+tournament winner p:		 0.6
+xover uniform p:		 0.697
+do mutation1 p:			 0.22
+mutation1 p:			 0.1
+do optimize p:			 0.98
+local optimize count:		 10000
+do deep better optimize p:	 1
+do deep worse optimize p:	 0
+do spin p:			 0
+spin count:			 1000
+do spin apply p:		 1
+do mutation2 p:			 0.12
+mutation2 p:			 0.1
+force mutation2:		 0
+replace bad p:			 0.3
+
+converge rate p:		 0.99
+converge count:			 5
+
+**********************************************
+
+
+===================[TEST 1]===================
+
+##### START ##### Tue May 13 08:11:24 2003
+
+
+
+##### CONVERGE ##### Tue May 13 08:14:47 2003
+
+Elapsed time: 203 seconds
+Total loop: 346 generations
+
+Result : 185.823
+
+1 10 36 44 53 45 2 7 52 31 8 38 54 6 13 28 42 26 27 32 41 19 39 37 3 25 12 33 48 22 24 47 18 23 49 46 4 14 17 34 35 50 11 51 40 16 15 20 21 29 5 43 9 30 
+
+ 1 10 36 44 53 45	 => 189
+ 2 45 53 7 52 31	 => 190
+ 8 31 52 38 54 6	 => 189
+ 36 13 28 42 26 44	 => 189
+ 53 44 26 27 32 7	 => 189
+ 52 7 32 41 19 38	 => 189
+ 54 38 19 39 37 3	 => 190
+ 28 25 12 33 48 42	 => 188
+ 26 42 48 22 24 27	 => 189
+ 32 27 24 47 18 41	 => 189
+ 19 41 18 23 49 39	 => 189
+ 37 39 49 46 4 14	 => 189
+ 48 33 17 34 35 22	 => 189
+ 24 22 35 50 11 47	 => 189
+ 18 47 11 51 40 23	 => 190
+ 49 23 40 16 15 46	 => 189
+ 35 34 20 21 29 50	 => 189
+ 11 50 29 5 43 51	 => 189
+ 40 51 43 9 30 16	 => 189
+
+
+===================[TEST 2]===================
+
+##### START ##### Tue May 13 08:14:48 2003
+
+

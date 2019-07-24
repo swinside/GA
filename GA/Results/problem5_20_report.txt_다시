@@ -1,0 +1,1033 @@
+****************** GA TEST ******************
+
+total test#:	 100
+problem size:	 20
+inputfile:	 .\\problem20
+outfile:	 .\\problem5_20_report.txt
+partition_count:	 5
+population_count:	 30
+replace_count:		 25
+tournament_winner_p:	 0.6
+xover_uniform_p:	 0.6
+mutation_p:		 0.069
+replace_bad_p:		 0.413
+pre_cut_count:		 17
+cut_count:		 10
+mutation_reduce_r:	 0.9
+replace_bad_reduce_r:	 0.9
+converge_rate:		 0.75
+stop_count:		 8
+*********************************************
+
+[TEST1]
+Elapsed time: 1 seconds
+Total loop: 4826 generations
+
+Result : 7.22396
+
+03221404204433241131
+
+
+[TEST2]
+Elapsed time: 2 seconds
+Total loop: 11019 generations
+
+Result : 3.20578
+
+01021244434113320042
+
+
+[TEST3]
+Elapsed time: 1 seconds
+Total loop: 4543 generations
+
+Result : 7.22396
+
+03112404104433142232
+
+
+[TEST4]
+Elapsed time: 2 seconds
+Total loop: 13750 generations
+
+Result : 5.50307
+
+12420234121334310010
+
+
+[TEST5]
+Elapsed time: 5 seconds
+Total loop: 30709 generations
+
+Result : 6.6862
+
+21403124323004110300
+
+
+[TEST6]
+Elapsed time: 12 seconds
+Total loop: 78499 generations
+
+Result : 7.31359
+
+20404341201221233331
+
+
+[TEST7]
+Elapsed time: 20 seconds
+Total loop: 125057 generations
+
+Result : 6.26708
+
+44231204120430313210
+
+
+[TEST8]
+Elapsed time: 4 seconds
+Total loop: 23448 generations
+
+Result : 6.95669
+
+31040203224412312432
+
+
+[TEST9]
+Elapsed time: 4 seconds
+Total loop: 27387 generations
+
+Result : 4.41028
+
+42320213021331403401
+
+
+[TEST10]
+Elapsed time: 15 seconds
+Total loop: 100305 generations
+
+Result : 1.63399
+
+43300411121022433410
+
+
+[TEST11]
+Elapsed time: 4 seconds
+Total loop: 26642 generations
+
+Result : 5.81299
+
+21040030324413212423
+
+
+[TEST12]
+Elapsed time: 1 seconds
+Total loop: 7218 generations
+
+Result : 2.16193
+
+21030404114423141233
+
+
+[TEST13]
+Elapsed time: 8 seconds
+Total loop: 53974 generations
+
+Result : 2.2512
+
+40131212302042033402
+
+
+[TEST14]
+Elapsed time: 21 seconds
+Total loop: 132744 generations
+
+Result : 6.73166
+
+02120343423304130114
+
+
+[TEST15]
+Elapsed time: 1 seconds
+Total loop: 10015 generations
+
+Result : 8.3125
+
+40133124312302403142
+
+
+[TEST16]
+Elapsed time: 5 seconds
+Total loop: 32458 generations
+
+Result : 6.65137
+
+02431204101324232132
+
+
+[TEST17]
+Elapsed time: 1 seconds
+Total loop: 6361 generations
+
+Result : 0.873423
+
+22414242103300311323
+
+
+[TEST18]
+Elapsed time: 18 seconds
+Total loop: 115491 generations
+
+Result : 1.5082
+
+02343131124201244021
+
+
+[TEST19]
+Elapsed time: 19 seconds
+Total loop: 127144 generations
+
+Result : 5.44367
+
+01244002304312314343
+
+
+[TEST20]
+Elapsed time: 11 seconds
+Total loop: 67794 generations
+
+Result : 4.32999
+
+01022001140244133332
+
+
+[TEST21]
+Elapsed time: 23 seconds
+Total loop: 153336 generations
+
+Result : 0.873423
+
+11303131024422400414
+
+
+[TEST22]
+Elapsed time: 7 seconds
+Total loop: 44015 generations
+
+Result : 6.91769
+
+23014320421130343143
+
+
+[TEST23]
+Elapsed time: 9 seconds
+Total loop: 61661 generations
+
+Result : 5.94034
+
+00112404134433142202
+
+
+[TEST24]
+Elapsed time: 2 seconds
+Total loop: 9761 generations
+
+Result : 6.64744
+
+13240112010332343034
+
+
+[TEST25]
+Elapsed time: 3 seconds
+Total loop: 21167 generations
+
+Result : 3.28991
+
+11404142031133100222
+
+
+[TEST26]
+Elapsed time: 8 seconds
+Total loop: 51314 generations
+
+Result : 1.91917
+
+41020203313143123412
+
+
+[TEST27]
+Elapsed time: 11 seconds
+Total loop: 72258 generations
+
+Result : 1.91917
+
+24303031141421401240
+
+
+[TEST28]
+Elapsed time: 6 seconds
+Total loop: 38962 generations
+
+Result : 0.873423
+
+11404141023322300313
+
+
+[TEST29]
+Elapsed time: 5 seconds
+Total loop: 37538 generations
+
+Result : 4.96831
+
+21234441104400132243
+
+
+[TEST30]
+Elapsed time: 2 seconds
+Total loop: 12727 generations
+
+Result : 3.15942
+
+20141313443320034204
+
+
+[TEST31]
+Elapsed time: 20 seconds
+Total loop: 129519 generations
+
+Result : 0.873423
+
+00313030124422411404
+
+
+[TEST32]
+Elapsed time: 4 seconds
+Total loop: 24325 generations
+
+Result : 6.39245
+
+24310223041123402104
+
+
+[TEST33]
+Elapsed time: 2 seconds
+Total loop: 17469 generations
+
+Result : 3.15825
+
+44232424103300111341
+
+
+[TEST34]
+Elapsed time: 7 seconds
+Total loop: 41348 generations
+
+Result : 2.99035
+
+00242320414011433334
+
+
+[TEST35]
+Elapsed time: 3 seconds
+Total loop: 24239 generations
+
+Result : 12.774
+
+20434401104141230213
+
+
+[TEST36]
+Elapsed time: 3 seconds
+Total loop: 18014 generations
+
+Result : 0.873423
+
+33202323041144100131
+
+
+[TEST37]
+Elapsed time: 10 seconds
+Total loop: 66215 generations
+
+Result : 6.10326
+
+41023440313240124321
+
+
+[TEST38]
+Elapsed time: 7 seconds
+Total loop: 44380 generations
+
+Result : 6.10326
+
+13042110232410341243
+
+
+[TEST39]
+Elapsed time: 13 seconds
+Total loop: 82662 generations
+
+Result : 6.48307
+
+24403212120031344031
+
+
+[TEST40]
+Elapsed time: 4 seconds
+Total loop: 28966 generations
+
+Result : 4.07996
+
+32010303434421424411
+
+
+[TEST41]
+Elapsed time: 1 seconds
+Total loop: 9270 generations
+
+Result : 2.88139
+
+40031424141223200133
+
+
+[TEST42]
+Elapsed time: 7 seconds
+Total loop: 45777 generations
+
+Result : 0.873423
+
+33101313042244200232
+
+
+[TEST43]
+Elapsed time: 7 seconds
+Total loop: 41270 generations
+
+Result : 5.50307
+
+10402034101334312212
+
+
+[TEST44]
+Elapsed time: 3 seconds
+Total loop: 21948 generations
+
+Result : 2.16193
+
+01343232112204121044
+
+
+[TEST45]
+Elapsed time: 5 seconds
+Total loop: 35037 generations
+
+Result : 3.51187
+
+01303134020022110444
+
+
+[TEST46]
+Elapsed time: 9 seconds
+Total loop: 55521 generations
+
+Result : 6.17345
+
+34241402340032301131
+
+
+[TEST47]
+Elapsed time: 5 seconds
+Total loop: 35364 generations
+
+Result : 4.98049
+
+31424041120230100322
+
+
+[TEST48]
+Elapsed time: 15 seconds
+Total loop: 95938 generations
+
+Result : 0.873423
+
+44020404231133122141
+
+
+[TEST49]
+Elapsed time: 7 seconds
+Total loop: 43225 generations
+
+Result : 6.10326
+
+31204332414032103401
+
+
+[TEST50]
+Elapsed time: 1 seconds
+Total loop: 10585 generations
+
+Result : 6.03139
+
+40410441134003322221
+
+
+[TEST51]
+Elapsed time: 4 seconds
+Total loop: 22512 generations
+
+Result : 6.3263
+
+13340003020412240143
+
+
+[TEST52]
+Elapsed time: 5 seconds
+Total loop: 37312 generations
+
+Result : 1.91917
+
+43121210030340320432
+
+
+[TEST53]
+Elapsed time: 3 seconds
+Total loop: 21245 generations
+
+Result : 5.77289
+
+23103221424331404440
+
+
+[TEST54]
+Elapsed time: 4 seconds
+Total loop: 29976 generations
+
+Result : 7.08161
+
+43430424034221201101
+
+
+[TEST55]
+Elapsed time: 25 seconds
+Total loop: 162167 generations
+
+Result : 6.73166
+
+42024131321143014003
+
+
+[TEST56]
+Elapsed time: 10 seconds
+Total loop: 68236 generations
+
+Result : 1.93507
+
+12300243034014220134
+
+
+[TEST57]
+Elapsed time: 6 seconds
+Total loop: 35781 generations
+
+Result : 2.83347
+
+03434342132202111021
+
+
+[TEST58]
+Elapsed time: 10 seconds
+Total loop: 66903 generations
+
+Result : 6.32468
+
+30422031234204402111
+
+
+[TEST59]
+Elapsed time: 8 seconds
+Total loop: 51750 generations
+
+Result : 7.80385
+
+32020104321331311444
+
+
+[TEST60]
+Elapsed time: 4 seconds
+Total loop: 26109 generations
+
+Result : 9.65995
+
+02014033414320123403
+
+
+[TEST61]
+Elapsed time: 9 seconds
+Total loop: 59323 generations
+
+Result : 3.03203
+
+02343131221401242041
+
+
+[TEST62]
+Elapsed time: 8 seconds
+Total loop: 53064 generations
+
+Result : 4.02784
+
+03212023341144300100
+
+
+[TEST63]
+Elapsed time: 4 seconds
+Total loop: 28515 generations
+
+Result : 6.50698
+
+04242121041103013303
+
+
+[TEST64]
+Elapsed time: 13 seconds
+Total loop: 86470 generations
+
+Result : 5.68957
+
+43220414241031230001
+
+
+[TEST65]
+Elapsed time: 4 seconds
+Total loop: 20879 generations
+
+Result : 1.63399
+
+03322044414211033042
+
+
+[TEST66]
+Elapsed time: 6 seconds
+Total loop: 42676 generations
+
+Result : 6.03139
+
+21231223302110044443
+
+
+[TEST67]
+Elapsed time: 16 seconds
+Total loop: 107417 generations
+
+Result : 2.85361
+
+23102041014034232014
+
+
+[TEST68]
+Elapsed time: 7 seconds
+Total loop: 44876 generations
+
+Result : 4.49558
+
+14303324432212403120
+
+
+[TEST69]
+Elapsed time: 17 seconds
+Total loop: 108791 generations
+
+Result : 1.37293
+
+21401234043113200243
+
+
+[TEST70]
+Elapsed time: 16 seconds
+Total loop: 104478 generations
+
+Result : 1.37673
+
+20131210340044233200
+
+
+[TEST71]
+Elapsed time: 5 seconds
+Total loop: 31871 generations
+
+Result : 4.63556
+
+34121014400030420302
+
+
+[TEST72]
+Elapsed time: 6 seconds
+Total loop: 41575 generations
+
+Result : 1.5082
+
+02313434421204211024
+
+
+[TEST73]
+Elapsed time: 2 seconds
+Total loop: 11272 generations
+
+Result : 2.16193
+
+40313232002241020411
+
+
+[TEST74]
+Elapsed time: 2 seconds
+Total loop: 12936 generations
+
+Result : 2.76804
+
+21404242023311300313
+
+
+[TEST75]
+Elapsed time: 13 seconds
+Total loop: 89125 generations
+
+Result : 3.50781
+
+01021004230113322444
+
+
+[TEST76]
+Elapsed time: 3 seconds
+Total loop: 17216 generations
+
+Result : 3.50781
+
+20240221432003344111
+
+
+[TEST77]
+Elapsed time: 20 seconds
+Total loop: 130654 generations
+
+Result : 3.71486
+
+30412334232440014201
+
+
+[TEST78]
+Elapsed time: 2 seconds
+Total loop: 12817 generations
+
+Result : 6.10326
+
+40312443202143014210
+
+
+[TEST79]
+Elapsed time: 11 seconds
+Total loop: 72572 generations
+
+Result : 0.873423
+
+44313434120022011040
+
+
+[TEST80]
+Elapsed time: 3 seconds
+Total loop: 19705 generations
+
+Result : 4.64172
+
+24220334413311430020
+
+
+[TEST81]
+Elapsed time: 4 seconds
+Total loop: 25999 generations
+
+Result : 3.80256
+
+42131012200340230430
+
+
+[TEST82]
+Elapsed time: 0 seconds
+Total loop: 3199 generations
+
+Result : 10.9087
+
+03334402403414114222
+
+
+[TEST83]
+Elapsed time: 1 seconds
+Total loop: 3199 generations
+
+Result : 10.9087
+
+03334402403414114222
+
+
+[TEST84]
+Elapsed time: 15 seconds
+Total loop: 102896 generations
+
+Result : 4.10777
+
+32404343130022111021
+
+
+[TEST85]
+Elapsed time: 2 seconds
+Total loop: 8302 generations
+
+Result : 4.33192
+
+21300221123033144440
+
+
+[TEST86]
+Elapsed time: 4 seconds
+Total loop: 24809 generations
+
+Result : 1.37673
+
+31020301241144322311
+
+
+[TEST87]
+Elapsed time: 3 seconds
+Total loop: 24203 generations
+
+Result : 4.41769
+
+02141012230033240004
+
+
+[TEST88]
+Elapsed time: 16 seconds
+Total loop: 104629 generations
+
+Result : 0.873423
+
+44232424310011033040
+
+
+[TEST89]
+Elapsed time: 1 seconds
+Total loop: 6177 generations
+
+Result : 1.91917
+
+34202021141431401340
+
+
+[TEST90]
+Elapsed time: 1 seconds
+Total loop: 4485 generations
+
+Result : 17.3669
+
+33024130221340412142
+
+
+[TEST91]
+Elapsed time: 0 seconds
+Total loop: 3770 generations
+
+Result : 11.0539
+
+11021034204334322014
+
+
+[TEST92]
+Elapsed time: 7 seconds
+Total loop: 40961 generations
+
+Result : 3.36672
+
+41303134420022114044
+
+
+[TEST93]
+Elapsed time: 8 seconds
+Total loop: 57524 generations
+
+Result : 3.24434
+
+34104323032442100112
+
+
+[TEST94]
+Elapsed time: 1 seconds
+Total loop: 3017 generations
+
+Result : 18.2635
+
+20032140421434313140
+
+
+[TEST95]
+Elapsed time: 5 seconds
+Total loop: 37009 generations
+
+Result : 5.94034
+
+22443121401100413323
+
+
+[TEST96]
+Elapsed time: 14 seconds
+Total loop: 90129 generations
+
+Result : 1.5082
+
+32404141120231200321
+
+
+[TEST97]
+Elapsed time: 12 seconds
+Total loop: 78997 generations
+
+Result : 0.873423
+
+33101313024422400434
+
+
+[TEST98]
+Elapsed time: 2 seconds
+Total loop: 12938 generations
+
+Result : 7.21244
+
+10341423402203121440
+
+
+[TEST99]
+Elapsed time: 15 seconds
+Total loop: 94712 generations
+
+Result : 1.37293
+
+30410324142002311342
+
+
+[TEST100]
+Elapsed time: 4 seconds
+Total loop: 25997 generations
+
+Result : 4.10777
+
+42030404143322111321
+
+
+
+
+test#	sd		time
+------------------------------------------------
+1	7.22396	1
+2	3.20578	2
+3	7.22396	1
+4	5.50307	2
+5	6.6862	5
+6	7.31359	12
+7	6.26708	20
+8	6.95669	4
+9	4.41028	4
+10	1.63399	15
+11	5.81299	4
+12	2.16193	1
+13	2.2512	8
+14	6.73166	21
+15	8.3125	1
+16	6.65137	5
+17	0.873423	1
+18	1.5082	18
+19	5.44367	19
+20	4.32999	11
+21	0.873423	23
+22	6.91769	7
+23	5.94034	9
+24	6.64744	2
+25	3.28991	3
+26	1.91917	8
+27	1.91917	11
+28	0.873423	6
+29	4.96831	5
+30	3.15942	2
+31	0.873423	20
+32	6.39245	4
+33	3.15825	2
+34	2.99035	7
+35	12.774	3
+36	0.873423	3
+37	6.10326	10
+38	6.10326	7
+39	6.48307	13
+40	4.07996	4
+41	2.88139	1
+42	0.873423	7
+43	5.50307	7
+44	2.16193	3
+45	3.51187	5
+46	6.17345	9
+47	4.98049	5
+48	0.873423	15
+49	6.10326	7
+50	6.03139	1
+51	6.3263	4
+52	1.91917	5
+53	5.77289	3
+54	7.08161	4
+55	6.73166	25
+56	1.93507	10
+57	2.83347	6
+58	6.32468	10
+59	7.80385	8
+60	9.65995	4
+61	3.03203	9
+62	4.02784	8
+63	6.50698	4
+64	5.68957	13
+65	1.63399	4
+66	6.03139	6
+67	2.85361	16
+68	4.49558	7
+69	1.37293	17
+70	1.37673	16
+71	4.63556	5
+72	1.5082	6
+73	2.16193	2
+74	2.76804	2
+75	3.50781	13
+76	3.50781	3
+77	3.71486	20
+78	6.10326	2
+79	0.873423	11
+80	4.64172	3
+81	3.80256	4
+82	10.9087	0
+83	10.9087	1
+84	4.10777	15
+85	4.33192	2
+86	1.37673	4
+87	4.41769	3
+88	0.873423	16
+89	1.91917	1
+90	17.3669	1
+91	11.0539	0
+92	3.36672	7
+93	3.24434	8
+94	18.2635	1
+95	5.94034	5
+96	1.5082	14
+97	0.873423	12
+98	7.21244	2
+99	1.37293	15
+100	4.10777	4
+
+
+------------------------------------------------
+Best result   : 0.873423 ( test# 21)
+Shortest time : 0 ( test# 82)
+
+Average result: 4.69724
+Average time  : 7.25

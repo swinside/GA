@@ -1,0 +1,41 @@
+< parameter 순서 >
+
+	g_outputfile=".\\output.txt";	//file
+	g_graphfile=".\\graph.xls";
+
+	g_min_width=3;			//문제정의
+	g_max_width=5;			// 
+	
+	g_population_size=50;		//population 크기
+	g_generation_size=12;		//generation 크기
+	
+	g_tournament_winner_p=1;	//selection
+	g_xover_uniform_p=0.697;	//crossover
+	
+	g_replace_bad_p=0.195;
+	
+	g_do_optimize_p=1;		//local optimize
+	g_local_optimize_count=6000;	
+	g_do_deep_better_optimize_p=1;
+	g_do_deep_worse_optimize_p=0;
+	
+	g_do_spin_p=0;			//spin
+	g_spin_count=1000;
+	g_do_spin_apply_p=1;
+
+	g_do_mutation1_p=0.1;		//mutation1
+	g_mutation1_p=0.05;
+	
+	g_do_mutation2_p=0.12;		//mutation2
+	g_mutation2_p=0.08;
+	g_force_mutation2=0;
+
+	g_converge_rate_p=0.99;		//종료조건
+	g_converge_count=5;
+
+	g_test_count=100;		//테스트 시행회수
+
+	g_xover_kind=3; //0 no / 1 1pt / 2 npt/ 3 randpt/ 4 uniform	
+	g_xover_npt=4
+	g_change_xover_src_p=0.16;
+	g_do_xover_p=1;			// xover 실시확률

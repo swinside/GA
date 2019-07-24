@@ -1,0 +1,44 @@
+****************** GA TEST ******************
+
+total test#:	 1
+problem size:	 50
+inputfile:	 .\\problem50
+outfile:	 .\\problem5_50_report.txt
+graphfile:	 .\\problem5_50_report.txt.graph.xls
+partition_count:	 5
+population_count:	 30
+replace_count:		 20
+tournament_winner_p:	 0.6
+xover_uniform_p:	 0.6
+mutation_p:		 0.041
+replace_bad_p:		 0.24
+pre_cut_count:		 16
+cut_count:		 8
+mutation_reduce_r:	 0.9
+replace_bad_reduce_r:	 0.9
+converge_rate:		 0.9
+stop_count:		 9
+*********************************************
+
+[TEST1]
+Elapsed time: 14 seconds
+Total loop: 51085 generations
+
+Result : 1.22256
+
+04430140133041422312233310013422111121213030302424
+
+
+
+
+test#	sd		time
+------------------------------------------------
+1	1.22256	14
+
+
+------------------------------------------------
+Best result   : 1.22256 ( test# 1)
+Shortest time : 14 ( test# 1)
+
+Average result: 1.22256
+Average time  : 14

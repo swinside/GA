@@ -1,0 +1,176 @@
+****************** GA TEST *******************
+
+total test#:			 5
+hexa min width:			 8
+hexa max width:			 8
+hexa count:			 8
+number count:			 34
+population size:		 30
+generation size:		 25
+
+tournament winner p:		 0.9
+do xover p:			 1
+xover:	uniform		0.697
+do mutation1 p:			 0.6
+mutation1 p:			 0.02
+do optimize p:			 1
+local optimize count:		 6000
+do deep better optimize p:	 1
+do deep worse optimize p:	 0
+do spin p:			 0
+spin count:			 1000
+do spin apply p:		 1
+do mutation2 p:			 1
+mutation2 p:			 0.05
+force mutation2:		 0
+replace bad p:			 0.1
+
+converge rate p:		 0.99
+converge count:			 5
+
+**********************************************
+
+
+===================[TEST 1]===================
+
+##### START ##### Wed May 28 13:28:41 2003
+
+
+
+##### CONVERGE ##### Wed May 28 13:28:42 2003
+
+Elapsed time: 1 seconds
+Total loop: 1 generations
+
+Result (Solution) : 0
+
+2 33 11 9 23 26 6 17 10 22 32 20 8 12 28 18 34 4 27 19 7 13 24 15 29 16 1 25 30 3 14 31 21 5 
+
+ 2 33 11 9 23 26	 => 104
+ 6 26 23 17 10 22	 => 104
+ 32 22 10 20 8 12	 => 104
+ 28 12 8 18 34 4	 => 104
+ 27 4 34 19 7 13	 => 104
+ 24 13 7 15 29 16	 => 104
+ 1 16 29 25 30 3	 => 104
+ 14 3 30 31 21 5	 => 104
+
+
+===================[TEST 2]===================
+
+##### START ##### Wed May 28 13:28:42 2003
+
+
+
+##### CONVERGE ##### Wed May 28 13:28:42 2003
+
+Elapsed time: 0 seconds
+Total loop: 1 generations
+
+Result (Solution) : 0
+
+2 24 34 13 19 7 28 18 5 22 8 25 29 10 14 33 12 1 30 15 21 20 17 4 31 6 16 32 11 3 27 23 26 9 
+
+ 2 24 34 13 19 7	 => 99
+ 28 7 19 18 5 22	 => 99
+ 8 22 5 25 29 10	 => 99
+ 14 10 29 33 12 1	 => 99
+ 30 1 12 15 21 20	 => 99
+ 17 20 21 4 31 6	 => 99
+ 16 6 31 32 11 3	 => 99
+ 27 3 11 23 26 9	 => 99
+
+
+===================[TEST 3]===================
+
+##### START ##### Wed May 28 13:28:43 2003
+
+
+
+##### CONVERGE ##### Wed May 28 13:28:43 2003
+
+Elapsed time: 0 seconds
+Total loop: 1 generations
+
+Result (Solution) : 0
+
+27 31 4 6 32 5 13 19 14 22 15 29 23 2 18 33 3 26 30 8 21 17 25 12 10 20 24 1 34 16 11 28 9 7 
+
+ 27 31 4 6 32 5	 => 105
+ 13 5 32 19 14 22	 => 105
+ 15 22 14 29 23 2	 => 105
+ 18 2 23 33 3 26	 => 105
+ 30 26 3 8 21 17	 => 105
+ 25 17 21 12 10 20	 => 105
+ 24 20 10 1 34 16	 => 105
+ 11 16 34 28 9 7	 => 105
+
+
+===================[TEST 4]===================
+
+##### START ##### Wed May 28 13:28:43 2003
+
+
+
+##### CONVERGE ##### Wed May 28 13:28:44 2003
+
+Elapsed time: 1 seconds
+Total loop: 1 generations
+
+Result (Solution) : 0
+
+27 31 4 6 32 5 13 19 14 22 15 29 23 2 18 33 3 26 30 8 21 17 25 12 10 20 24 1 34 16 11 28 9 7 
+
+ 27 31 4 6 32 5	 => 105
+ 13 5 32 19 14 22	 => 105
+ 15 22 14 29 23 2	 => 105
+ 18 2 23 33 3 26	 => 105
+ 30 26 3 8 21 17	 => 105
+ 25 17 21 12 10 20	 => 105
+ 24 20 10 1 34 16	 => 105
+ 11 16 34 28 9 7	 => 105
+
+
+===================[TEST 5]===================
+
+##### START ##### Wed May 28 13:28:44 2003
+
+
+
+##### CONVERGE ##### Wed May 28 13:28:45 2003
+
+Elapsed time: 1 seconds
+Total loop: 1 generations
+
+Result (Solution) : 0
+
+23 32 29 1 8 11 16 31 24 14 2 5 34 25 20 12 4 9 33 17 19 22 13 21 3 26 30 7 10 28 18 6 15 27 
+
+ 23 32 29 1 8 11	 => 104
+ 16 11 8 31 24 14	 => 104
+ 2 14 24 5 34 25	 => 104
+ 20 25 34 12 4 9	 => 104
+ 33 9 4 17 19 22	 => 104
+ 13 22 19 21 3 26	 => 104
+ 30 26 3 7 10 28	 => 104
+ 18 28 10 6 15 27	 => 104
+
+
+
+test#	fitness		sum		time
+---------------------------------------------------
+1	0		104		1
+2	0		99		0
+3	0		105		0
+4	0		105		1
+5	0		104		1
+
+
+---------------------------------------------------
+Best fitness      : 0 ( test# 1)
+Best solution sum : 105 ( test# 3)
+Shortest time     : 0 ( test# 2)
+
+Average fitness   : 0
+Average sol. sum  : -103.4
+Average time      : -0.6

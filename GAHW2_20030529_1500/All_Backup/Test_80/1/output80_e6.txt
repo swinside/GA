@@ -1,0 +1,71 @@
+****************** GA TEST *******************
+
+total test#:			 1
+hexa min width:			 2
+hexa max width:			 3
+hexa count:			 7
+number count:			 24
+population size:		 30
+generation size:		 20
+
+tournament winner p:		 1
+do xover p:			 1
+xover:				 2points
+do mutation1 p:			 0.2
+mutation1 p:			 0.05
+do optimize p:			 1
+local optimize count:		 20000
+do deep better optimize p:	 1
+do deep worse optimize p:	 0
+do spin p:			 0
+spin count:			 1000
+do spin apply p:		 1
+do mutation2 p:			 1
+mutation2 p:			 0.25
+force mutation2:		 0
+replace bad p:			 0.1
+
+converge rate p:		 0.99
+converge count:			 1
+
+**********************************************
+
+
+===================[TEST 1]===================
+
+##### START ##### Mon May 19 19:41:02 2003
+
+
+
+##### CONVERGE ##### Mon May 19 19:41:10 2003
+
+Elapsed time: 8 seconds
+Total loop: 23 generations
+
+Result (Solution) : 85
+
+4 5 23 21 15 17 11 8 22 12 2 6 19 14 9 18 24 3 10 16 7 20 13 1 
+
+ 4 5 23 21 15 17	 => 85
+ 11 17 15 8 22 12	 => 85
+ 23 2 6 19 14 21	 => 85
+ 15 21 14 9 18 8	 => 85
+ 22 8 18 24 3 10	 => 85
+ 14 19 16 7 20 9	 => 85
+ 18 9 20 13 1 24	 => 85
+
+
+
+test#	fitness		sum		time
+---------------------------------------------------
+1	85		85		8
+
+
+---------------------------------------------------
+Best fitness      : 85 ( test# 1)
+Best solution sum : 85 ( test# 1)
+Shortest time     : 8 ( test# 1)
+
+Average fitness   : 85
+Average sol. sum  : 85
+Average time      : 8

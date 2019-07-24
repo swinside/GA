@@ -1,0 +1,1033 @@
+****************** GA TEST ******************
+
+total test#:	 100
+problem size:	 20
+inputfile:	 .\\problem20
+outfile:	 .\\problem2_20_report.txt
+partition_count:	 2
+population_count:	 30
+replace_count:		 25
+tournament_winner_p:	 0.6
+xover_uniform_p:	 0.6
+mutation_p:		 0.07
+replace_bad_p:		 0.53
+pre_cut_count:		 16
+cut_count:		 10
+mutation_reduce_r:	 0.9
+replace_bad_reduce_r:	 0.9
+converge_rate:		 0.95
+stop_count:		 10
+*********************************************
+
+[TEST1]
+Elapsed time: 0 seconds
+Total loop: 3609 generations
+
+Result : 0.24
+
+11100101001111000110
+
+
+[TEST2]
+Elapsed time: 1 seconds
+Total loop: 3609 generations
+
+Result : 0.24
+
+11100101001111000110
+
+
+[TEST3]
+Elapsed time: 0 seconds
+Total loop: 1794 generations
+
+Result : 0.468
+
+00110010000010111100
+
+
+[TEST4]
+Elapsed time: 0 seconds
+Total loop: 1794 generations
+
+Result : 0.468
+
+00110010000010111100
+
+
+[TEST5]
+Elapsed time: 0 seconds
+Total loop: 1794 generations
+
+Result : 0.468
+
+00110010000010111100
+
+
+[TEST6]
+Elapsed time: 1 seconds
+Total loop: 1794 generations
+
+Result : 0.468
+
+00110010000010111100
+
+
+[TEST7]
+Elapsed time: 0 seconds
+Total loop: 1053 generations
+
+Result : 0.034
+
+01011011111100001010
+
+
+[TEST8]
+Elapsed time: 0 seconds
+Total loop: 1053 generations
+
+Result : 0.034
+
+01011011111100001010
+
+
+[TEST9]
+Elapsed time: 0 seconds
+Total loop: 1053 generations
+
+Result : 0.034
+
+01011011111100001010
+
+
+[TEST10]
+Elapsed time: 0 seconds
+Total loop: 1053 generations
+
+Result : 0.034
+
+01011011111100001010
+
+
+[TEST11]
+Elapsed time: 0 seconds
+Total loop: 1053 generations
+
+Result : 0.034
+
+01011011111100001010
+
+
+[TEST12]
+Elapsed time: 0 seconds
+Total loop: 1053 generations
+
+Result : 0.034
+
+01011011111100001010
+
+
+[TEST13]
+Elapsed time: 0 seconds
+Total loop: 1053 generations
+
+Result : 0.034
+
+01011011111100001010
+
+
+[TEST14]
+Elapsed time: 1 seconds
+Total loop: 1053 generations
+
+Result : 0.034
+
+01011011111100001010
+
+
+[TEST15]
+Elapsed time: 0 seconds
+Total loop: 1797 generations
+
+Result : 2.3588
+
+11010101001000011101
+
+
+[TEST16]
+Elapsed time: 0 seconds
+Total loop: 1797 generations
+
+Result : 2.3588
+
+11010101001000011101
+
+
+[TEST17]
+Elapsed time: 0 seconds
+Total loop: 1797 generations
+
+Result : 2.3588
+
+11010101001000011101
+
+
+[TEST18]
+Elapsed time: 0 seconds
+Total loop: 1797 generations
+
+Result : 2.3588
+
+11010101001000011101
+
+
+[TEST19]
+Elapsed time: 1 seconds
+Total loop: 1797 generations
+
+Result : 2.3588
+
+11010101001000011101
+
+
+[TEST20]
+Elapsed time: 0 seconds
+Total loop: 6725 generations
+
+Result : 0.0088
+
+01001100010011111010
+
+
+[TEST21]
+Elapsed time: 1 seconds
+Total loop: 6725 generations
+
+Result : 0.0088
+
+01001100010011111010
+
+
+[TEST22]
+Elapsed time: 0 seconds
+Total loop: 1029 generations
+
+Result : 0.564
+
+00110001001001011110
+
+
+[TEST23]
+Elapsed time: 0 seconds
+Total loop: 1029 generations
+
+Result : 0.564
+
+00110001001001011110
+
+
+[TEST24]
+Elapsed time: 1 seconds
+Total loop: 1029 generations
+
+Result : 0.564
+
+00110001001001011110
+
+
+[TEST25]
+Elapsed time: 0 seconds
+Total loop: 2314 generations
+
+Result : 0.564
+
+00110001001001011110
+
+
+[TEST26]
+Elapsed time: 0 seconds
+Total loop: 2314 generations
+
+Result : 0.564
+
+00110001001001011110
+
+
+[TEST27]
+Elapsed time: 0 seconds
+Total loop: 2314 generations
+
+Result : 0.564
+
+00110001001001011110
+
+
+[TEST28]
+Elapsed time: 1 seconds
+Total loop: 2314 generations
+
+Result : 0.564
+
+00110001001001011110
+
+
+[TEST29]
+Elapsed time: 0 seconds
+Total loop: 1017 generations
+
+Result : 0.252
+
+10000010110110011101
+
+
+[TEST30]
+Elapsed time: 0 seconds
+Total loop: 1017 generations
+
+Result : 0.252
+
+10000010110110011101
+
+
+[TEST31]
+Elapsed time: 0 seconds
+Total loop: 1017 generations
+
+Result : 0.252
+
+10000010110110011101
+
+
+[TEST32]
+Elapsed time: 0 seconds
+Total loop: 1017 generations
+
+Result : 0.252
+
+10000010110110011101
+
+
+[TEST33]
+Elapsed time: 0 seconds
+Total loop: 1017 generations
+
+Result : 0.252
+
+10000010110110011101
+
+
+[TEST34]
+Elapsed time: 0 seconds
+Total loop: 1017 generations
+
+Result : 0.252
+
+10000010110110011101
+
+
+[TEST35]
+Elapsed time: 0 seconds
+Total loop: 1017 generations
+
+Result : 0.252
+
+10000010110110011101
+
+
+[TEST36]
+Elapsed time: 1 seconds
+Total loop: 1017 generations
+
+Result : 0.252
+
+10000010110110011101
+
+
+[TEST37]
+Elapsed time: 0 seconds
+Total loop: 3051 generations
+
+Result : 0.3512
+
+11011000110000110000
+
+
+[TEST38]
+Elapsed time: 0 seconds
+Total loop: 3051 generations
+
+Result : 0.3512
+
+11011000110000110000
+
+
+[TEST39]
+Elapsed time: 1 seconds
+Total loop: 3051 generations
+
+Result : 0.3512
+
+11011000110000110000
+
+
+[TEST40]
+Elapsed time: 0 seconds
+Total loop: 565 generations
+
+Result : 0.3592
+
+00101001011111100010
+
+
+[TEST41]
+Elapsed time: 0 seconds
+Total loop: 565 generations
+
+Result : 0.3592
+
+00101001011111100010
+
+
+[TEST42]
+Elapsed time: 0 seconds
+Total loop: 565 generations
+
+Result : 0.3592
+
+00101001011111100010
+
+
+[TEST43]
+Elapsed time: 0 seconds
+Total loop: 565 generations
+
+Result : 0.3592
+
+00101001011111100010
+
+
+[TEST44]
+Elapsed time: 0 seconds
+Total loop: 565 generations
+
+Result : 0.3592
+
+00101001011111100010
+
+
+[TEST45]
+Elapsed time: 0 seconds
+Total loop: 565 generations
+
+Result : 0.3592
+
+00101001011111100010
+
+
+[TEST46]
+Elapsed time: 0 seconds
+Total loop: 565 generations
+
+Result : 0.3592
+
+00101001011111100010
+
+
+[TEST47]
+Elapsed time: 0 seconds
+Total loop: 565 generations
+
+Result : 0.3592
+
+00101001011111100010
+
+
+[TEST48]
+Elapsed time: 0 seconds
+Total loop: 565 generations
+
+Result : 0.3592
+
+00101001011111100010
+
+
+[TEST49]
+Elapsed time: 0 seconds
+Total loop: 565 generations
+
+Result : 0.3592
+
+00101001011111100010
+
+
+[TEST50]
+Elapsed time: 0 seconds
+Total loop: 565 generations
+
+Result : 0.3592
+
+00101001011111100010
+
+
+[TEST51]
+Elapsed time: 0 seconds
+Total loop: 565 generations
+
+Result : 0.3592
+
+00101001011111100010
+
+
+[TEST52]
+Elapsed time: 0 seconds
+Total loop: 565 generations
+
+Result : 0.3592
+
+00101001011111100010
+
+
+[TEST53]
+Elapsed time: 0 seconds
+Total loop: 565 generations
+
+Result : 0.3592
+
+00101001011111100010
+
+
+[TEST54]
+Elapsed time: 1 seconds
+Total loop: 565 generations
+
+Result : 0.3592
+
+00101001011111100010
+
+
+[TEST55]
+Elapsed time: 0 seconds
+Total loop: 2917 generations
+
+Result : 0.4332
+
+11110000100110110001
+
+
+[TEST56]
+Elapsed time: 0 seconds
+Total loop: 2917 generations
+
+Result : 0.4332
+
+11110000100110110001
+
+
+[TEST57]
+Elapsed time: 1 seconds
+Total loop: 2917 generations
+
+Result : 0.4332
+
+11110000100110110001
+
+
+[TEST58]
+Elapsed time: 0 seconds
+Total loop: 1762 generations
+
+Result : 0.2588
+
+01101000101100110111
+
+
+[TEST59]
+Elapsed time: 0 seconds
+Total loop: 1762 generations
+
+Result : 0.2588
+
+01101000101100110111
+
+
+[TEST60]
+Elapsed time: 0 seconds
+Total loop: 1762 generations
+
+Result : 0.2588
+
+01101000101100110111
+
+
+[TEST61]
+Elapsed time: 0 seconds
+Total loop: 1762 generations
+
+Result : 0.2588
+
+01101000101100110111
+
+
+[TEST62]
+Elapsed time: 1 seconds
+Total loop: 1762 generations
+
+Result : 0.2588
+
+01101000101100110111
+
+
+[TEST63]
+Elapsed time: 0 seconds
+Total loop: 3897 generations
+
+Result : 0.252
+
+10000010110110011101
+
+
+[TEST64]
+Elapsed time: 0 seconds
+Total loop: 3897 generations
+
+Result : 0.252
+
+10000010110110011101
+
+
+[TEST65]
+Elapsed time: 1 seconds
+Total loop: 3897 generations
+
+Result : 0.252
+
+10000010110110011101
+
+
+[TEST66]
+Elapsed time: 0 seconds
+Total loop: 2738 generations
+
+Result : 0.1392
+
+11000011000001110010
+
+
+[TEST67]
+Elapsed time: 0 seconds
+Total loop: 2738 generations
+
+Result : 0.1392
+
+11000011000001110010
+
+
+[TEST68]
+Elapsed time: 1 seconds
+Total loop: 2738 generations
+
+Result : 0.1392
+
+11000011000001110010
+
+
+[TEST69]
+Elapsed time: 0 seconds
+Total loop: 993 generations
+
+Result : 0.586
+
+10111110100010000100
+
+
+[TEST70]
+Elapsed time: 0 seconds
+Total loop: 993 generations
+
+Result : 0.586
+
+10111110100010000100
+
+
+[TEST71]
+Elapsed time: 0 seconds
+Total loop: 993 generations
+
+Result : 0.586
+
+10111110100010000100
+
+
+[TEST72]
+Elapsed time: 0 seconds
+Total loop: 993 generations
+
+Result : 0.586
+
+10111110100010000100
+
+
+[TEST73]
+Elapsed time: 0 seconds
+Total loop: 993 generations
+
+Result : 0.586
+
+10111110100010000100
+
+
+[TEST74]
+Elapsed time: 0 seconds
+Total loop: 993 generations
+
+Result : 0.586
+
+10111110100010000100
+
+
+[TEST75]
+Elapsed time: 1 seconds
+Total loop: 993 generations
+
+Result : 0.586
+
+10111110100010000100
+
+
+[TEST76]
+Elapsed time: 0 seconds
+Total loop: 1680 generations
+
+Result : 0.0088
+
+01001100010011111010
+
+
+[TEST77]
+Elapsed time: 0 seconds
+Total loop: 1680 generations
+
+Result : 0.0088
+
+01001100010011111010
+
+
+[TEST78]
+Elapsed time: 0 seconds
+Total loop: 1680 generations
+
+Result : 0.0088
+
+01001100010011111010
+
+
+[TEST79]
+Elapsed time: 0 seconds
+Total loop: 1680 generations
+
+Result : 0.0088
+
+01001100010011111010
+
+
+[TEST80]
+Elapsed time: 1 seconds
+Total loop: 1680 generations
+
+Result : 0.0088
+
+01001100010011111010
+
+
+[TEST81]
+Elapsed time: 0 seconds
+Total loop: 5467 generations
+
+Result : 0.3
+
+10011111001100000110
+
+
+[TEST82]
+Elapsed time: 1 seconds
+Total loop: 5467 generations
+
+Result : 0.3
+
+10011111001100000110
+
+
+[TEST83]
+Elapsed time: 0 seconds
+Total loop: 2915 generations
+
+Result : 0.1392
+
+11000011000001110010
+
+
+[TEST84]
+Elapsed time: 0 seconds
+Total loop: 2915 generations
+
+Result : 0.1392
+
+11000011000001110010
+
+
+[TEST85]
+Elapsed time: 1 seconds
+Total loop: 2915 generations
+
+Result : 0.1392
+
+11000011000001110010
+
+
+[TEST86]
+Elapsed time: 0 seconds
+Total loop: 1903 generations
+
+Result : 0.1988
+
+10011000111000100111
+
+
+[TEST87]
+Elapsed time: 0 seconds
+Total loop: 1903 generations
+
+Result : 0.1988
+
+10011000111000100111
+
+
+[TEST88]
+Elapsed time: 0 seconds
+Total loop: 1903 generations
+
+Result : 0.1988
+
+10011000111000100111
+
+
+[TEST89]
+Elapsed time: 1 seconds
+Total loop: 1903 generations
+
+Result : 0.1988
+
+10011000111000100111
+
+
+[TEST90]
+Elapsed time: 0 seconds
+Total loop: 2701 generations
+
+Result : 0.0088
+
+01001100010011111010
+
+
+[TEST91]
+Elapsed time: 0 seconds
+Total loop: 2701 generations
+
+Result : 0.0088
+
+01001100010011111010
+
+
+[TEST92]
+Elapsed time: 0 seconds
+Total loop: 2701 generations
+
+Result : 0.0088
+
+01001100010011111010
+
+
+[TEST93]
+Elapsed time: 1 seconds
+Total loop: 2701 generations
+
+Result : 0.0088
+
+01001100010011111010
+
+
+[TEST94]
+Elapsed time: 0 seconds
+Total loop: 1229 generations
+
+Result : 0.006
+
+01110010001011101001
+
+
+[TEST95]
+Elapsed time: 0 seconds
+Total loop: 1229 generations
+
+Result : 0.006
+
+01110010001011101001
+
+
+[TEST96]
+Elapsed time: 0 seconds
+Total loop: 1229 generations
+
+Result : 0.006
+
+01110010001011101001
+
+
+[TEST97]
+Elapsed time: 0 seconds
+Total loop: 1229 generations
+
+Result : 0.006
+
+01110010001011101001
+
+
+[TEST98]
+Elapsed time: 0 seconds
+Total loop: 1229 generations
+
+Result : 0.006
+
+01110010001011101001
+
+
+[TEST99]
+Elapsed time: 1 seconds
+Total loop: 1229 generations
+
+Result : 0.006
+
+01110010001011101001
+
+
+[TEST100]
+Elapsed time: 0 seconds
+Total loop: 1672 generations
+
+Result : 0.3008
+
+01010101010110111000
+
+
+
+
+test#	sd		time
+------------------------------------------------
+1	0.24	0
+2	0.24	1
+3	0.468	0
+4	0.468	0
+5	0.468	0
+6	0.468	1
+7	0.034	0
+8	0.034	0
+9	0.034	0
+10	0.034	0
+11	0.034	0
+12	0.034	0
+13	0.034	0
+14	0.034	1
+15	2.3588	0
+16	2.3588	0
+17	2.3588	0
+18	2.3588	0
+19	2.3588	1
+20	0.0088	0
+21	0.0088	1
+22	0.564	0
+23	0.564	0
+24	0.564	1
+25	0.564	0
+26	0.564	0
+27	0.564	0
+28	0.564	1
+29	0.252	0
+30	0.252	0
+31	0.252	0
+32	0.252	0
+33	0.252	0
+34	0.252	0
+35	0.252	0
+36	0.252	1
+37	0.3512	0
+38	0.3512	0
+39	0.3512	1
+40	0.3592	0
+41	0.3592	0
+42	0.3592	0
+43	0.3592	0
+44	0.3592	0
+45	0.3592	0
+46	0.3592	0
+47	0.3592	0
+48	0.3592	0
+49	0.3592	0
+50	0.3592	0
+51	0.3592	0
+52	0.3592	0
+53	0.3592	0
+54	0.3592	1
+55	0.4332	0
+56	0.4332	0
+57	0.4332	1
+58	0.2588	0
+59	0.2588	0
+60	0.2588	0
+61	0.2588	0
+62	0.2588	1
+63	0.252	0
+64	0.252	0
+65	0.252	1
+66	0.1392	0
+67	0.1392	0
+68	0.1392	1
+69	0.586	0
+70	0.586	0
+71	0.586	0
+72	0.586	0
+73	0.586	0
+74	0.586	0
+75	0.586	1
+76	0.0088	0
+77	0.0088	0
+78	0.0088	0
+79	0.0088	0
+80	0.0088	1
+81	0.3	0
+82	0.3	1
+83	0.1392	0
+84	0.1392	0
+85	0.1392	1
+86	0.1988	0
+87	0.1988	0
+88	0.1988	0
+89	0.1988	1
+90	0.0088	0
+91	0.0088	0
+92	0.0088	0
+93	0.0088	1
+94	0.006	0
+95	0.006	0
+96	0.006	0
+97	0.006	0
+98	0.006	0
+99	0.006	1
+100	0.3008	0
+
+
+------------------------------------------------
+Best result   : 0.006 ( test# 94)
+Shortest time : 0 ( test# 1)
+
+Average result: 0.369392
+Average time  : 0.21

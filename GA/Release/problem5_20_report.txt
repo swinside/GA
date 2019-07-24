@@ -1,0 +1,21 @@
+****************** GA TEST ******************
+
+total test#:	 100
+problem size:	 20
+inputfile:	 .\\problem20
+outfile:	 .\\problem5_20_report.txt
+partition_count:	 5
+population_count:	 30
+replace_count:		 25
+tournament_winner_p:	 0.6
+xover_uniform_p:	 0.6
+mutation_p:		 0.069
+replace_bad_p:		 0.413
+pre_cut_count:		 17
+cut_count:		 10
+mutation_reduce_r:	 0.9
+replace_bad_reduce_r:	 0.9
+converge_rate:		 0.75
+stop_count:		 8
+*********************************************
+

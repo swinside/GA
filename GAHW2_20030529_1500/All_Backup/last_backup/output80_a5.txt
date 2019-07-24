@@ -1,0 +1,38 @@
+****************** GA TEST *******************
+
+total test#:			 10
+hexa min width:			 3
+hexa max width:			 6
+hexa count:			 30
+number count:			 80
+population size:		 120
+generation size:		 50
+
+tournament winner p:		 0.9
+do xover p:			 1
+xover:				 2points
+do mutation1 p:			 0.2
+mutation1 p:			 0.05
+do optimize p:			 1
+local optimize count:		 20000
+do deep better optimize p:	 1
+do deep worse optimize p:	 0
+do spin p:			 0
+spin count:			 1000
+do spin apply p:		 1
+do mutation2 p:			 0.2
+mutation2 p:			 0.04
+force mutation2:		 0
+replace bad p:			 0.4
+
+converge rate p:		 0.99
+converge count:			 1
+
+**********************************************
+
+
+===================[TEST 1]===================
+
+##### START ##### Sun May 18 16:59:31 2003
+
+

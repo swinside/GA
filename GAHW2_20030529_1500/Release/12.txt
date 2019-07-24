@@ -1,0 +1,140 @@
+error:calculation error - wrong hexa_count!
+****************** GA TEST *******************
+
+total test#:			 5
+hexa min width:			 15
+hexa max width:			 12
+hexa count:			 0
+number count:			 0
+population size:		 30
+generation size:		 25
+
+tournament winner p:		 0.9
+do xover p:			 1
+xover:	uniform		0.697
+do mutation1 p:			 0.6
+mutation1 p:			 0.02
+do optimize p:			 0
+local optimize count:		 10000
+do deep better optimize p:	 1
+do deep worse optimize p:	 0
+do spin p:			 0
+spin count:			 1000
+do spin apply p:		 1
+do mutation2 p:			 1
+mutation2 p:			 0.02
+force mutation2:		 0
+replace bad p:			 0.1
+
+converge rate p:		 0.99
+converge count:			 5
+
+**********************************************
+
+
+===================[TEST 1]===================
+error:calculation error - wrong hexa_count!
+
+##### START ##### Wed May 28 13:57:45 2003
+
+
+
+##### CONVERGE ##### Wed May 28 13:57:45 2003
+
+Elapsed time: 0 seconds
+Total loop: 5 generations
+
+Result : 999999
+
+
+
+
+
+===================[TEST 2]===================
+error:calculation error - wrong hexa_count!
+
+##### START ##### Wed May 28 13:57:45 2003
+
+
+
+##### CONVERGE ##### Wed May 28 13:57:45 2003
+
+Elapsed time: 0 seconds
+Total loop: 5 generations
+
+Result : 999999
+
+
+
+
+
+===================[TEST 3]===================
+error:calculation error - wrong hexa_count!
+
+##### START ##### Wed May 28 13:57:45 2003
+
+
+
+##### CONVERGE ##### Wed May 28 13:57:45 2003
+
+Elapsed time: 0 seconds
+Total loop: 5 generations
+
+Result : 999999
+
+
+
+
+
+===================[TEST 4]===================
+error:calculation error - wrong hexa_count!
+
+##### START ##### Wed May 28 13:57:45 2003
+
+
+
+##### CONVERGE ##### Wed May 28 13:57:45 2003
+
+Elapsed time: 0 seconds
+Total loop: 5 generations
+
+Result : 999999
+
+
+
+
+
+===================[TEST 5]===================
+error:calculation error - wrong hexa_count!
+
+##### START ##### Wed May 28 13:57:45 2003
+
+
+
+##### CONVERGE ##### Wed May 28 13:57:45 2003
+
+Elapsed time: 0 seconds
+Total loop: 5 generations
+
+Result : 999999
+
+
+
+
+
+
+test#	fitness		sum		time
+---------------------------------------------------
+1	999999				0
+2	999999				0
+3	999999				0
+4	999999				0
+5	999999				0
+
+
+---------------------------------------------------
+Best fitness      : 999999 ( test# 0)
+Shortest time     : 0 ( test# 1)
+
+Average fitness   : 999999
+Average time      : 0

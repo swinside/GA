@@ -1,0 +1,104 @@
+****************** GA TEST *******************
+
+total test#:			 2
+hexa min width:			 1
+hexa max width:			 2
+hexa count:			 4
+number count:			 16
+population size:		 20
+generation size:		 10
+
+tournament winner p:		 1
+do xover p:			 1
+xover:	uniform		0.697
+do mutation1 p:			 0.1
+mutation1 p:			 0.01
+do optimize p:			 0.15
+local optimize count:		 11000
+do deep better optimize p:	 1
+do deep worse optimize p:	 0
+do spin p:			 0
+spin count:			 1000
+do spin apply p:		 1
+do mutation2 p:			 0.1
+mutation2 p:			 0.01
+force mutation2:		 0
+replace bad p:			 0.195
+
+converge rate p:		 0.99
+converge count:			 1
+
+**********************************************
+
+
+===================[TEST 1]===================
+
+##### START ##### Wed May 21 23:22:18 2003
+
+
+
+##### CONVERGE ##### Wed May 21 23:22:19 2003
+
+Elapsed time: 1 seconds
+Total loop: 17 generations
+
+Result : 57.0179
+
+15 2 9 13 14 6 7 3 16 11 12 8 1 5 4 10 
+
+ 15 2 9 13 14 6	 => 59
+ 9 7 3 16 11 13	 => 59
+ 14 13 11 12 8 1	 => 59
+ 11 16 5 4 10 12	 => 58
+
+15 2 6 13 14 7 10 3 16 9 12 8 1 5 11 4 
+
+ 15 2 6 13 14 7	 => 57
+ 6 10 3 16 9 13	 => 57
+ 14 13 9 12 8 1	 => 57
+ 9 16 5 11 4 12	 => 57
+
+
+===================[TEST 2]===================
+
+##### START ##### Wed May 21 23:22:19 2003
+
+
+
+##### CONVERGE ##### Wed May 21 23:22:20 2003
+
+Elapsed time: 1 seconds
+Total loop: 18 generations
+
+Result : 56.0179
+
+7 4 10 16 8 13 9 6 1 15 14 2 3 12 5 11 
+
+ 7 4 10 16 8 13	 => 58
+ 10 9 6 1 15 16	 => 57
+ 8 16 15 14 2 3	 => 58
+ 15 1 12 5 11 14	 => 58
+
+4 6 2 16 12 14 5 11 7 13 1 9 3 10 8 15 
+
+ 4 6 2 16 12 14	 => 54
+ 2 5 11 7 13 16	 => 54
+ 12 16 13 1 9 3	 => 54
+ 13 7 10 8 15 1	 => 54
+
+
+
+test#	fitness		sum		time
+---------------------------------------------------
+1	57.0179		57		1
+2	56.0179		54		1
+
+
+---------------------------------------------------
+Best fitness      : 57.0179 ( test# 1)
+Best solution sum : 57 ( test# 1)
+Shortest time     : 1 ( test# 1)
+
+Average fitness   : 56.5179
+Average sol. sum  : 55.5
+Average time      : 1
